@@ -22,9 +22,13 @@ Scriptwide Sans CJK consists of 3 fonts to support as many CJK ideographs as pos
 
 ## Coverage
 
-![Coverage](coverage.png)
+![ScriptwideA](ScriptwideA.png)
 
-This is a screenshot from <https://github.com/NightFurySL2001/CJK-character-count>.
+![ScriptwideB](ScriptwideB.png)
+
+![ScriptwideC](ScriptwideC.png)
+
+These are screenshots from <https://github.com/NightFurySL2001/CJK-character-count>.
 
 Additionally, Scriptwide Sans CJK covers all of tentative CJK Ext-J thanks to Plangothic, but official Unicode mappings may change.
 

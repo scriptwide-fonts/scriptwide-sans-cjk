@@ -18,6 +18,16 @@ Scriptwide Sans CJK consists of 3 fonts to support as many CJK ideographs as pos
 
 wip
 
+## Disclaimer
+
+This is not a professional font.
+
+Glyphs do not necessarily follow any source.
+
+I am not responsible for any damages caused by misusage of this font, or any misunderstandings that may arise when it is used in any scenario.
+
+If there are inaccuracies in certain glyphs, please create an issue.
+
 ## Credits
 
 | Font | Copyright |

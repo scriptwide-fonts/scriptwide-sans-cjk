@@ -6,6 +6,14 @@ Pan-CJK font based on Source Han Sans and its derivatives
 
 This font is licensed under OFL.
 
+## Description
+
+Very low effort amalgam of several Source Han Sans-derived fonts with some minute edits.
+
+Glyphs do not necessarily follow any source, but most of them should follow either G-source or K-source (as a result of combining G-source Plangothic and K-source (not exactly V-source) Gothic Nguyen.
+
+Scriptwide Sans CJK consists of 3 fonts to support as many CJK ideographs as possible.
+
 ## Coverage
 
 wip

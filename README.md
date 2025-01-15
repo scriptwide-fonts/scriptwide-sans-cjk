@@ -2,7 +2,9 @@
 
 Pan-CJK font based on Source Han Sans and its derivatives
 
-![You can already see how bad some of the glyphs are](https://github.com/user-attachments/assets/f1d600e7-22b2-49cb-a39e-4fef99c6e883)
+![FontForge](https://github.com/user-attachments/assets/f1d600e7-22b2-49cb-a39e-4fef99c6e883)
+
+*You can already see how bad some of the glyphs are.*
 
 This font is licensed under OFL.
 

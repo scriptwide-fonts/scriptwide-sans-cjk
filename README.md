@@ -12,7 +12,7 @@ Very low effort amalgam of several Source Han Sans-derived fonts with some minut
 
 Glyphs do not necessarily follow any source, but most of them should follow either G-source or K-source (as a result of combining G-source Plangothic and K-source (not exactly V-source) Gothic Nguyen.
 
-I plan to convert all glyphs to K->J->S->H->M->T->U->G->P source, in this fallback order, but this will probably never happen.
+I plan to convert all glyphs to `K→J→S→H→M→T→U→G→P` source, in this fallback order, but this will probably never happen.
 
 Scriptwide Sans CJK consists of 3 fonts to support as many CJK ideographs as possible.
 

@@ -12,7 +12,9 @@ This font is licensed under OFL.
 
 Very low effort amalgam of several Source Han Sans-derived fonts with some minute edits.
 
-It is recommended that [Lorchin Sans](https://github.com/Losketch/LorchinSans) should be used as a fallback font, if sans/gothic style for CJK ideographs is mandatory.
+Note that glyphs are not hinted, so they will look sub-optimal in low resolutions. It is therefore recommended to use Source Han Sans for most CJK ideographs, and use Scriptwide Sans CJK as a fallback.
+
+Furthermore, [Lorchin Sans](https://github.com/Losketch/LorchinSans) should be used as a second fallback font, if sans/gothic style for CJK ideographs is mandatory.
 
 Glyphs do not necessarily follow any source, but most of them should follow either G-source or K-source (as a result of combining G-source Plangothic and K-source (not exactly V-source) Gothic Nguyen.
 

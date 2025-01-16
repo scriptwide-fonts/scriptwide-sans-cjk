@@ -42,6 +42,29 @@ I am not responsible for any damages caused by misusage of this font, or any mis
 
 If there are inaccuracies in certain glyphs, please create an issue.
 
+## License
+
+As stated above, these fonts are licensed under the Open Font License. Details can be found in [the license file](LICENSE) or [the OFL website](https://openfontlicense.org/).
+
+This portion is partially taken from [the Plangothic repository](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project/blob/main/README.en.md#license) and from the OFL website.
+
+Note that the below is not a substitute for legal advice. Please refer to the OFL text for more details.
+
+### You may:
+
+* Install these fonts.
+* Modify these fonts.
+* Redistribute these fonts, modified or not. (Please ensure the modified font is licensed under the OFL, and does not use any OFL reserved names. Scriptwide itself is NOT a reserved name.)
+* Use these fonts for all kinds of design work, both commercial and non-commercial, free of charge, without notice.
+* Use these fonts without any acknowledgement. (Though this is still very appreciated.)
+
+### You may not:
+
+* Sell any part of the font files on their own.
+  * Allegedly there are many online merchants (typically on Taobao) illegally reselling OFL fonts. Please do NOT purchase from them, as this is a serious violation of the OFL.
+* Republish these fonts under a non-OFL license.
+* Use these fonts for illegal purposes or those that harm the normal operation of computer systems.
+
 ## Credits
 
 | Font | Brief Description | Copyright |

@@ -60,6 +60,8 @@ Additionally, Scriptwide Sans CJK covers all of tentative CJK Ext-J thanks to Pl
   * As per the OFL, you are free to do so as long as your font abides to the OFL.
 6. What's the point of these questions?
   * I only know that, that's what Damascus, that's what the point of Damascus.
+7. Will there be a Chinese version of the README file? README檔會有中文版嗎？
+  * Not yet. I plan to create one in the near future. 還沒，不過我計劃在不久的將來建立中文版。
 
 ## Disclaimer
 

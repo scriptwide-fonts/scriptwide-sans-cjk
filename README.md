@@ -49,7 +49,7 @@ Additionally, Scriptwide Sans CJK covers all of tentative CJK Ext-J thanks to Pl
 ## Who asked?
 
 1. Why does Scriptwide Sans CJK consist of 3 fonts?
-  * Scriptwide Sans CJK-A covers the BMP, Scriptwide Sans CJK-B covers ext-B, and Scriptwode Sans CJK-C covers everything else. One font file can only support 65535 glyphs, therefore the font has to be split.
+  * Scriptwide Sans CJK-A covers the BMP, Scriptwide Sans CJK-B covers ext-B, and Scriptwide Sans CJK-C covers everything else. One font file can only support 65535 glyphs, therefore the font has to be split.
 2. Why not 2 fonts?
   * Good question.
 3. Why isn't the entirety of Lorchin Sans directly integrated into Scriptwide Sans CJK?

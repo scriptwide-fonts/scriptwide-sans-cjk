@@ -46,6 +46,21 @@ These are screenshots from <https://github.com/NightFurySL2001/CJK-character-cou
 
 Additionally, Scriptwide Sans CJK covers all of tentative CJK Ext-J thanks to Plangothic, but official Unicode mappings may change.
 
+## Who asked?
+
+1. Why does Scriptwide Sans CJK consist of 3 fonts?
+  * Scriptwide Sans CJK-A covers the BMP, Scriptwide Sans CJK-B covers ext-B, and Scriptwode Sans CJK-C covers everything else. One font file can only support 65535 glyphs, therefore the font has to be split.
+2. Why not 2 fonts?
+  * Good question.
+3. Why isn't the entirety of Lorchin Sans directly integrated into Scriptwide Sans CJK?
+  * Some glyphs from Lorchin Sans are directly integrated due to the complexity of some glyphs. However, glyphs from Lorchin Sans often do not follow the aesthetics of Source Han Sans.
+4. Why do some glyphs look terrible?
+  * With the complexity of certain glyphs, they are sometimes directly drawn and bolded.
+5. Can I expand on this font?
+  * As per the OFL, you are free to do so as long as your font abides to the OFL.
+6. What's the point of these questions?
+  * I only know that, that's what Damascus, that's what the point of Damascus.
+
 ## Disclaimer
 
 This is not a professional font.

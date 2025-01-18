@@ -10,7 +10,7 @@ This font is licensed under OFL.
 
 ## Description
 
-Very low effort amalgam of several Source Han Sans-derived fonts with some minute edits.
+Very low effort amalgamation of several Source Han Sans-derived fonts with some minute edits.
 
 Note that glyphs are not hinted, so they will look sub-optimal in low resolutions. It is therefore recommended to use Source Han Sans for most CJK ideographs, and use Scriptwide Sans CJK as a fallback.
 
@@ -21,6 +21,10 @@ Glyphs do not necessarily follow any source, but most of them should follow eith
 I plan to convert all glyphs to `K→J→S→V→H→M→T→U→G→P` source, roughly in this fallback order where applicable, but this will probably never happen.
 
 Scriptwide Sans CJK consists of 3 fonts to support as many CJK ideographs as possible.
+
+## A special note
+
+I'm too stupid and lazy to contact the Plangothic team (to clear up any misconceptions, I am native in Chinese), but it is imperative to address that the glyph for `U+26979	𦥹` should be mapped to `U+22C93	𢲓`. This will be fixed in the next version of Scriptwide Sans CJK-B.
 
 ## Coverage
 

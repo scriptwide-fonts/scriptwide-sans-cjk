@@ -68,7 +68,7 @@ Note that the below is not a substitute for legal advice. Please refer to the OF
 
 * Install these fonts.
 * Modify these fonts.
-* Redistribute these fonts, modified or not. (Please ensure the modified font is licensed under the OFL, and does not use any OFL reserved names. Scriptwide itself is NOT a reserved name.)
+* Redistribute these fonts, modified or not. (Please ensure the modified font is licensed under the OFL, and does not use any OFL reserved names. Scriptwide itself is NOT a reserved name, but to prevent confusion, I do not recommend using the "Scriptwide" name in any derivative fonts.)
 * Use these fonts for all kinds of design work, both commercial and non-commercial, free of charge, without notice.
 * Use these fonts without any acknowledgement. (Though this is still very appreciated.)
 

@@ -24,7 +24,7 @@ Scriptwide Sans CJK consists of 3 fonts to support as many CJK ideographs as pos
 
 ## A special note
 
-I'm too stupid and lazy to contact the Plangothic team (to clear up any misconceptions, I am native in Chinese), but it is imperative to address that the glyph for `U+26979	𦥹` should be mapped to `U+22C93	𢲓`. This will be fixed in the next version of Scriptwide Sans CJK-B.
+I'm too stupid and lazy to contact the Plangothic team (to clear up any misconceptions, I am native in Chinese), but it is imperative to address that the glyph for `U+26979 𦥹` should be mapped to `U+22C93 𢲓`. This will be fixed in the next version of Scriptwide Sans CJK-B.
 
 ## Coverage
 

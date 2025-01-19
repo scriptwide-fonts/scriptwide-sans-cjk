@@ -54,14 +54,14 @@ Additionally, Scriptwide Sans CJK covers all of tentative CJK Ext-J thanks to Pl
   * Good question.
 3. Why isn't the entirety of Lorchin Sans directly integrated into Scriptwide Sans CJK?
   * Some glyphs from Lorchin Sans are directly integrated due to the complexity of some glyphs. However, glyphs from Lorchin Sans often do not follow the aesthetics of Source Han Sans.
-4. Why do some glyphs look terrible?
+4. Why, then, are some glyphs directly integrated from Lorchin Sans?
+  * Due to "technical issues" (i.e. laziness) I am unable to draw glyphs under certain radicals. In these cases glyphs from Lorchin Sans would look aesthetically more pleasing than what I could have done.
+5. Why do some glyphs look terrible?
   * With the complexity of certain glyphs, they are sometimes directly drawn and bolded.
-5. Can I expand on this font?
+6. Can I expand on this font?
   * As per the OFL, you are free to do so as long as your font abides to the OFL.
-6. What's the point of these questions?
+7. What's the point of these questions?
   * I only know that, that's what Damascus, that's what the point of Damascus.
-7. Will there be a Chinese version of the README file? README檔會有中文版嗎？
-  * Not yet. I plan to create one in the near future. 還沒，不過我計劃在不久的將來建立中文版。
 
 ## Disclaimer
 

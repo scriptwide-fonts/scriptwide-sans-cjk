@@ -104,6 +104,6 @@ Note that the below is not a substitute for legal advice. Please refer to the OF
 | [Plangothic](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project) | Provided most glyphs | Fitzgerald Porthmouth Koenigsegg [et. al.](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project?tab=readme-ov-file#%E8%B4%A1%E7%8C%AE%E8%80%85) |
 | [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) | Provided modifications of Plangothic glyphs | MY1L |
 | [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen) | Provided some Vietnamese Han Nom glyphs | TKYKmori, Han-Nom Revival Committee of Vietnam |
-| [Sukima Gothic](https://oppekebekkanko.booth.pm/items/2117070) | Provided some glyphs | (booth[dot]pm) oppekebekkanko |
+| [Sukima Gothic](https://oppekebekkanko.booth.pm/items/2117070) | Provided some glyphs | (booth.pm) oppekebekkanko |
 | [Yuu Gothic](https://github.com/Steve-Yuu/Yuu-Gothic) | Provided some glyphs | Steve-Yuu |
 | [Lorchin Sans](https://github.com/Losketch/LorchinSans) | Provided some components which were edited into the font | Losketch |

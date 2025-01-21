@@ -107,3 +107,4 @@ Note that the below is not a substitute for legal advice. Please refer to the OF
 | [Sukima Gothic](https://oppekebekkanko.booth.pm/items/2117070) | Provided some glyphs | (booth.pm) oppekebekkanko |
 | [Yuu Gothic](https://github.com/Steve-Yuu/Yuu-Gothic) | Provided some glyphs | Steve-Yuu |
 | [Lorchin Sans](https://github.com/Losketch/LorchinSans) | Provided some components which were edited into the font | Losketch |
+| [Chiron Hei HK](https://github.com/chiron-fonts/chiron-hei-hk) | Provided some glyphs | chiron-fonts |

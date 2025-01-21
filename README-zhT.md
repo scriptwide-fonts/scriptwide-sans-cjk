@@ -98,10 +98,11 @@ Scriptwide Sans CJK 由三個字體組成，以支援大量中日韓文字。
 
 | 字體 | 描述 | 版權 |
 | --- | --- | --- |
-| [思源黑體](https://github.com/adobe-fonts/source-han-sans) | 打底字體 | Google, Adobe |
+| [思源黑體](https://github.com/adobe-fonts/source-han-sans) | 原始字體 | Google, Adobe |
 | [遍黑體](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project) | 大部分字形 | Fitzgerald Porthmouth Koenigsegg [et. al.](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project?tab=readme-ov-file#%E8%B4%A1%E7%8C%AE%E8%80%85) |
 | [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) | 遍黑體變更 | MY1L |
 | [𦁣夕源](https://github.com/TKYKmori/Gothic-Nguyen) | 漢喃字 | TKYKmori, Han-Nom Revival Committee of Vietnam |
 | [間隙黑體](https://oppekebekkanko.booth.pm/items/2117070) | 部分字形 | (booth.pm) oppekebekkanko |
 | [Yuu黑體](https://github.com/Steve-Yuu/Yuu-Gothic) | 部分字形 | Steve-Yuu |
 | [落塵無襯](https://github.com/Losketch/LorchinSans) | 部分零件、字形 | Losketch |
+| [昭源黑體](https://github.com/chiron-fonts/chiron-hei-hk) | 部分字形 | chiron-fonts 

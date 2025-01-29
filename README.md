@@ -24,7 +24,7 @@ Scriptwide Sans CJK consists of 3 fonts to support as many CJK ideographs as pos
 
 ## A note about an incorrect mapping
 
-I'm too stupid and lazy to contact the Plangothic team, but it is imperative to address that in Plangothic, the glyph for `U+26979 𦥹` should be mapped to `U+22C93 𢲓`. This issue has never been addressed. This will be fixed in the next version of Scriptwide Sans CJK-B.
+Though unifiable, in Plangothic, the glyph for `U+26979 𦥹` should be mapped to `U+22C93 𢲓`. This issue has never been addressed. This will be fixed in the next version of Scriptwide Sans CJK-B.
 
 Below are screenshots from <zi.tools>.
 

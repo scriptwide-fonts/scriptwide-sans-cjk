@@ -24,7 +24,7 @@ Scriptwide Sans CJK consists of 3 fonts to support as many CJK ideographs as pos
 
 ## A note about an incorrect mapping
 
-Though unifiable, in Plangothic, the glyph for `U+26979 𦥹` should be mapped to `U+22C93 𢲓`. This issue has never been addressed. This will be fixed in the next version of Scriptwide Sans CJK-B.
+Though unifiable, in Plangothic, the glyph for `U+26979 𦥹` should be mapped to `U+22C93 𢲓`. This issue has never been addressed. This has already been fixed since `v1.002`.
 
 Below are screenshots from <zi.tools>.
 
@@ -34,15 +34,11 @@ Below are screenshots from <zi.tools>.
 
 ## Coverage
 
-![ScriptwideA](ScriptwideA.png)
-
 ![ScriptwideB](ScriptwideB.png)
 
-![ScriptwideC](ScriptwideC.png)
+This is a screenshot from <https://github.com/NightFurySL2001/CJK-character-count>.
 
-These are screenshots from <https://github.com/NightFurySL2001/CJK-character-count>.
-
-Additionally, Scriptwide Sans CJK covers all of tentative CJK Ext-J thanks to Plangothic, but official Unicode mappings may change.
+Additionally, Scriptwide Sans CJK covers all of tentative CJK Ext-J with glyphs from Plangothic, but official Unicode mappings may change.
 
 ## Who asked?
 
@@ -60,6 +56,8 @@ Additionally, Scriptwide Sans CJK covers all of tentative CJK Ext-J thanks to Pl
   * As per the OFL, you are free to do so as long as your font abides to the OFL.
 7. What's the point of these questions?
   * I only know that, that's what Damascus, that's what the point of Damascus.
+8. Did you remove the coverage images of Scriptwide Sans CJK-A and C?
+  * Yes, as they are redundant.
 
 ## Disclaimer
 

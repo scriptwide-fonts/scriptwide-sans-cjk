@@ -14,11 +14,9 @@
 
 請注意，字體未經微調，因此在低解析度下的效果不太理想。因此建議先使用思源黑體，並使用Scriptwide Sans CJK作為後備。
 
-若然漢字必須採用黑體，則應使用[落塵無襯](https://github.com/Losketch/LorchinSans)作為第二後備字體。
+字形不一定遵循任何來源，但大多數應該遵循國標（G源）或日本/韓國（J/K源），此為結合國標的遍黑體、日本標準的Sukima Gothic、以及韓國標準𦁣夕源的結果。
 
-字形不一定遵循任何來源，但大多數應該遵循國標（G源）或韓國（K源）（作為結合國標的遍黑體以及韓國標準（不完全是越南標準）𦁣夕源的結果）。
-
-我計劃將所有字形大致上轉換為 `K→J→S→V→H→M→T→U→G→P` 來源，但這可能永遠不會發生。
+我計劃將所有字形大致上轉換為 `J→K→S→V→H→M→T→U→G→P` 來源，但這可能永遠不會發生。
 
 Scriptwide Sans CJK 由三個字體組成，以支援大量中日韓文字。
 
@@ -32,17 +30,9 @@ Scriptwide Sans CJK 由三個字體組成，以支援大量中日韓文字。
 
 `U+26979`: ![Screenshot 2025-01-18 214556](https://github.com/user-attachments/assets/4698276e-ec09-43f4-859b-ed967e0be0b0)
 
-## Coverage
+## 覆蓋
 
-![ScriptwideA](ScriptwideA.png)
-
-![ScriptwideB](ScriptwideB.png)
-
-![ScriptwideC](ScriptwideC.png)
-
-以上為<https://github.com/NightFurySL2001/CJK-character-count>的截圖。
-
-此外，遍黑體亦提供了暫定J區的字，但萬國碼可能會發生變化。
+Scriptwide Sans CJK涵蓋Unicode 16.0所有的CJK字碼，以及J區。
 
 ## 問題
 
@@ -50,15 +40,13 @@ Scriptwide Sans CJK 由三個字體組成，以支援大量中日韓文字。
   * Scriptwide Sans CJK-A涵蓋BMP，Scriptwide Sans CJK-B涵蓋B區，Scriptwide Sans CJK-C則涵蓋其他區域。一個字體只支援65535個字形，因此必須拆分字體。
 2. 那兩個字體呢？
   * 那真是個好問題
-3. 為什麽不將整個落塵無襯字體整合到字體內？
-  * 較複雜的字形直接整合了落塵無襯的一些字形。然而，落塵無襯的字形通常不符合思源黑體的外貌。
-4. 那為什麽某些字形還是直接從落塵無襯採用？
-  * 由於「技術問題」（意思是我太懶了），我無法繪製某些部首的字形。在這些情況下，落塵無襯的字形必定會比我所做的更美觀。
-5. 為什麼有些字形看起來很糟？
+3. 為什麽某些字形直接從落塵無襯採用？
+  * 在先前版本的 Scriptwide Sans CJK 中，由於我的懶惰，一些字形直接從落塵無襯整合而來。這些應該更新為遍黑體中的字形，但由於疏忽，有些可能未正確更新。
+4. 為什麼有些字形看起來很糟？
   * 由於某些字形比較複雜，有些字形會直接繪製並加粗。
-6. 我可以擴展這個字體嗎？
+5. 我可以擴展這個字體嗎？
   * 可以，但你的字體必須符合OFL授權。
-7. 你寫的這些問題有什麽用處？
+6. 你寫的這些問題有什麽用處？
   * 沒用處。
 
 ## 免責聲明
@@ -85,13 +73,14 @@ Scriptwide Sans CJK 由三個字體組成，以支援大量中日韓文字。
 * 修改此字體。
 * 轉發此字體。（請確保修改後的字體符合OFL授權，並且不使用任何OFL保留名稱。Scriptwide 本身並非保留名稱，但為了避免混淆，我不建議在任何衍生字體中使用“Scriptwide”名稱。）
 * 免費使用這些字體進行各種設計工作，包括商業和非商業用途，無需事先通知。
-* 不需作出鳴謝，使用這些字體。（但是如果有的話我會非常感激。）
+* 使用這些字體不需作出鳴謝。（但是如果有的話我會非常感激。）
 
 ### 你不可以：
 
 * 自行出售字體檔案的任何部分。
   * 據稱有許多網路商家（通常在淘寶上）非法轉售 OFL 字體。請不要從他們那裡購買，因為這嚴重地侵犯OFL授權。
 * 在非 OFL 許可下重新發布這些字體。
+  * 鼎〇（〇猎），你們可知道我在說誰了吧？
 * 將這些字體用於非法用途或危害電腦系統正常運作的用途。
  
 ## 鳴謝
@@ -104,5 +93,6 @@ Scriptwide Sans CJK 由三個字體組成，以支援大量中日韓文字。
 | [𦁣夕源](https://github.com/TKYKmori/Gothic-Nguyen) | 漢喃字 | TKYKmori, Han-Nom Revival Committee of Vietnam |
 | [間隙黑體](https://oppekebekkanko.booth.pm/items/2117070) | 部分字形 | (booth.pm) oppekebekkanko |
 | [Yuu黑體](https://github.com/Steve-Yuu/Yuu-Gothic) | 部分字形 | Steve-Yuu |
-| [落塵無襯](https://github.com/Losketch/LorchinSans) | 部分零件、字形 | Losketch |
 | [昭源黑體](https://github.com/chiron-fonts/chiron-hei-hk) | 部分字形 | chiron-fonts 
+| [文源黑體](https://github.com/takushun-wu/WenYuanFonts) | 部分字形 | takushun-wu |
+| [落塵無襯](https://github.com/Losketch/LorchinSans) | 部分零件、字形，大部分已停止使用 | Losketch |

@@ -50,6 +50,8 @@ Scriptwide Sans CJK now covers all CJK codepoints as well as Ext-J, as of Unicod
   * I only know that, that's what Damascus, that's what the point of Damascus.
 7. Did you remove the coverage images?
   * Yes, as they are redundant now.
+8. Will there be a bold version?
+  * A bold version is work in progress, but due to its immense workload it may not be published.
 
 ## Disclaimer
 

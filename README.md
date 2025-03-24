@@ -51,7 +51,7 @@ Scriptwide Sans CJK now covers all CJK codepoints as well as Ext-J, as of Unicod
 7. Did you remove the coverage images?
   * Yes, as they are redundant now.
 8. Will there be a bold version?
-  * A bold version is work in progress, but due to its immense workload it may not be published.
+  * There is a work-in-progress bold version, but due to its immense workload it may not be published.
 
 ## Disclaimer
 

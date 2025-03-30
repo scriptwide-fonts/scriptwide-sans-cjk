@@ -1,0 +1,54 @@
+FONTLOG for the Scriptwide Sans CJK font
+
+This FONTLOG is adopted from Appendix A of <https://openfontlicense.org/ofl-faq/>.
+
+This file provides detailed information on the Scriptwide Sans CJK Font Software.  
+
+Basic Font Information
+
+Scriptwide Sans CJK is a font aiming to support all CJK (Han characters used in Chinese, Japanese, Korean, and also Vietnamese and Zhuang etc.) characters.
+Due to its size, the font is split into three font files: CJK-A, CJK-B, and CJK-C.
+
+Only a bold version of CJK-A will be provided. Supplementary bold characters are included in CJK-BdPlus.
+
+More specifically, this release supports the following Unicode ranges (for brevity, only CJK Unified Ideographs and CJK Compatibility Ideographs blocks are provided):
+
+[CJK-A]
+CJK Unified Ideographs
+CJK Unified Ideographs Extension A
+CJK Compatibility Ideographs
+Private Use Area (U+E000 - U+E008)
+
+[CJK-B]
+CJK Unified Ideographs Extension B
+
+[CJK-C]
+CJK Compatibility Ideographs Supplement
+CJK Unified Ideographs Extension C
+CJK Unified Ideographs Extension D
+CJK Unified Ideographs Extension E
+CJK Unified Ideographs Extension F
+CJK Unified Ideographs Extension G
+CJK Unified Ideographs Extension H
+CJK Unified Ideographs Extension I
+CJK Unified Ideographs Extension J (Provisional)
+
+This release contains three regular fonts (CJK-A, CJK-B, CJK-C). Two bold fonts (CJK-A-Bd, CJK-BdPlus) will be provided in a future update.
+Documentation can be found at <https://github.com/scriptwide-fonts/scriptwide-sans-cjk>.
+To contribute to the project, you may publish a derivative font and link to the font under GitHub Issues with label "Enhancement".
+For a changelog, you may refer to <https://github.com/scriptwide-fonts/scriptwide-sans-cjk/releases>.
+
+Acknowledgements
+
+Scriptwide Sans CJK uses glyphs from numerous derivatives of Source Han Sans. Below is a list of these derivatives. Entries are arranged in alphabetical order of authors.
+
+chiron-fonts | Chiron Hei HK (https://github.com/chiron-fonts/chiron-hei-hk)
+Fitzgerald Porthmouth Koenigsegg et. al. | Plangothic (https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project)
+Google, Adobe | Source Han Sans (https://github.com/adobe-fonts/source-han-sans)
+MY1L | Noto Unicode (https://github.com/MY1L/Unicode/tree/main/NotoUnicode)
+oppekebekkanko | Sukima Gothic (https://oppekebekkanko.booth.pm/items/2117070)
+Steve-Yuu | Yuu Gothic (https://github.com/Steve-Yuu/Yuu-Gothic)
+takushun-wu | WenYuan Gothic (https://github.com/takushun-wu/WenYuanFonts)
+TKYKmori, Han-Nom Revival Committee of Vietnam | Gothic Nguyen (https://github.com/TKYKmori/Gothic-Nguyen)
+
+In addition to the list above, Lorchin Sans (https://github.com/Losketch/LorchinSans) by Losketch was also integrated to provide some components which were edited into the font, though these glyphs are mostly deprecated.

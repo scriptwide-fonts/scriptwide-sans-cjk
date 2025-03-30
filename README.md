@@ -8,6 +8,8 @@ Pan-CJK font based on Source Han Sans and its derivatives
 
 This font is licensed under OFL.
 
+FONTLOG is available at [FONTLOG.txt].
+
 ## Description
 
 Very low effort amalgamation of several Source Han Sans-derived fonts with some minute edits.

@@ -20,16 +20,6 @@
 
 Scriptwide Sans CJK 由三個字體組成，以支援大量中日韓文字。
 
-## 關於映射問題
-
-我不太想直接聯絡遍黑體團隊，但`U+26979 𦥹`的字符應映射到`U+22C93 𢲓`。此將於下一個Scriptwide Sans CJK-B版本中修復。
-
-以下為[字統網](zi.tools)的相關圖片。
-
-`U+22C93`: ![Screenshot 2025-01-18 214611](https://github.com/user-attachments/assets/a77f84eb-4d74-4d55-b328-9113b651c11f)
-
-`U+26979`: ![Screenshot 2025-01-18 214556](https://github.com/user-attachments/assets/4698276e-ec09-43f4-859b-ed967e0be0b0)
-
 ## 覆蓋
 
 Scriptwide Sans CJK涵蓋Unicode 16.0所有的CJK字碼，以及J區。

@@ -22,16 +22,6 @@ I plan to convert all glyphs to `J→K→S→V→H→M→T→U→G→P` source, 
 
 Scriptwide Sans CJK consists of 3 fonts to support as many CJK ideographs as possible.
 
-## A note about an incorrect mapping
-
-Though unifiable, in Plangothic, the glyph for `U+26979 𦥹` should be mapped to `U+22C93 𢲓`. This issue has never been addressed. This has already been fixed since `v1.002`.
-
-Below are screenshots from <zi.tools>.
-
-`U+22C93`: ![Screenshot 2025-01-18 214611](https://github.com/user-attachments/assets/a77f84eb-4d74-4d55-b328-9113b651c11f)
-
-`U+26979`: ![Screenshot 2025-01-18 214556](https://github.com/user-attachments/assets/4698276e-ec09-43f4-859b-ed967e0be0b0)
-
 ## Coverage
 
 Scriptwide Sans CJK now covers all CJK codepoints as well as Ext-J, as of Unicode 16.0. 

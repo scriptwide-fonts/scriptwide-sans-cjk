@@ -12,7 +12,7 @@ FONTLOG is available at [FONTLOG.txt](FONTLOG.txt).
 
 ## Verdict
 
-Please just use Plangothic. Scriptwide Sans CJK is hot garbage.
+Please just use Plangothic. Scriptwide Sans CJK is a dumpster fire.
 
 ## Description
 

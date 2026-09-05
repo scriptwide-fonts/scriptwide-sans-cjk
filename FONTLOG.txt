@@ -38,17 +38,18 @@ Documentation can be found at <https://github.com/scriptwide-fonts/scriptwide-sa
 To contribute to the project, you may publish a derivative font and link to the font under GitHub Issues with label "Enhancement".
 For a changelog, you may refer to <https://github.com/scriptwide-fonts/scriptwide-sans-cjk/releases>.
 
-Acknowledgements
+Acknowledgement
 
-Scriptwide Sans CJK uses glyphs from numerous derivatives of Source Han Sans. Below is a list of these derivatives. Entries are arranged in alphabetical order of authors.
+Scriptwide Sans CJK uses glyphs from numerous derivatives of Source Han Sans. Below is a list of these derivatives. Entries are not arranged in any particular order.
 
-chiron-fonts | Chiron Hei HK (https://github.com/chiron-fonts/chiron-hei-hk)
-Fitzgerald Porthmouth Koenigsegg et. al. | Plangothic (https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project)
-Google, Adobe | Source Han Sans (https://github.com/adobe-fonts/source-han-sans)
-MY1L | Noto Unicode (https://github.com/MY1L/Unicode/tree/main/NotoUnicode)
-oppekebekkanko | Sukima Gothic (https://oppekebekkanko.booth.pm/items/2117070)
-Steve-Yuu | Yuu Gothic (https://github.com/Steve-Yuu/Yuu-Gothic)
-takushun-wu | WenYuan Gothic (https://github.com/takushun-wu/WenYuanFonts)
-TKYKmori, Han-Nom Revival Committee of Vietnam | Gothic Nguyen (https://github.com/TKYKmori/Gothic-Nguyen)
-
-In addition to the list above, Lorchin Sans (https://github.com/Losketch/LorchinSans) by Losketch was also integrated to provide some components which were edited into the font, though these glyphs are mostly deprecated.
+* [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)
+* [Plangothic](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project)
+* [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)
+* [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen)
+* [Sukima Gothic](https://oppekebekkanko.booth.pm/items/2117070) (booth.pm)
+* [Yuu Gothic](https://github.com/Steve-Yuu/Yuu-Gothic)
+* [Chiron Hei HK](https://github.com/chiron-fonts/chiron-hei-hk)
+* [WenYuan Gothic](https://github.com/takushun-wu/WenYuanFonts)
+* [Yuan Gu Hei TGC](https://zhuanlan.zhihu.com/p/1897044158293717296) (Zhihu)
+* [Huiwen-HKHei](https://zhuanlan.zhihu.com/p/12669052378) (Zhihu)
+* [SHS-UFO-Edits](https://github.com/CoolMarvel43/SHS-UFO-Edits)

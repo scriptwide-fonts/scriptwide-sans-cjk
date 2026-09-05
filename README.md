@@ -1,30 +1,14 @@
 # Scriptwide Sans CJK
 
-Pan-CJK font based on Source Han Sans and its derivatives
+*Pan-CJK font based on Source Han Sans and its derivatives*
 
-![FontForge](https://github.com/user-attachments/assets/f1d600e7-22b2-49cb-a39e-4fef99c6e883)
-
-*You can already see how bad some of the glyphs are.*
-
-This font is licensed under OFL.
+This font is licensed under the OFL.
 
 FONTLOG is available at [FONTLOG.txt](FONTLOG.txt).
 
 ## Verdict
 
 Please just use Plangothic. Scriptwide Sans CJK is a dumpster fire.
-
-## Description
-
-Very low effort amalgamation of several Source Han Sans-derived fonts with some minute edits.
-
-Note that glyphs are not hinted, so they will look sub-optimal in low resolutions. It is therefore recommended to use Source Han Sans for most CJK ideographs, and use Scriptwide Sans CJK as a fallback.
-
-Glyphs do not necessarily follow any source, but most of them should follow either G-source, or J/K-source, as a result of combining G-source Plangothic, J-source Sukima Gothic, and K-source Gothic Nguyen.
-
-I plan to convert all glyphs to `J→K→S→V→H→M→T→U→G→P` source, roughly in this fallback order where applicable, but this will probably never happen.
-
-Scriptwide Sans CJK consists of 3 fonts to support as many CJK ideographs as possible.
 
 ## Coverage
 
@@ -36,17 +20,15 @@ Scriptwide Sans CJK now covers all CJK codepoints as well as Ext-J, as of Unicod
   * Scriptwide Sans CJK-A covers the BMP, Scriptwide Sans CJK-B covers ext-B, and Scriptwide Sans CJK-C covers everything else. One font file can only support 65535 glyphs, therefore the font has to be split.
 2. Why not 2 fonts?
   * Good question.
-3. Why are some glyphs directly integrated from Lorchin Sans?
-  * In previous versions of Scriptwide Sans CJK, some glyphs are directly integrated from Lorchin Sans due to my laziness. These should be updated to the glyphs in Plangothic, but some may not be updated properly due to oversights.
-4. Why do some glyphs look terrible?
-  * With the complexity of certain glyphs, they are sometimes directly drawn and bolded. If this is the case, you may directly use glyphs from Plangothic.
-5. Can I expand on this font?
-  * Yes, unless you violate the OFL. You probably won't if you're being reasonable.
-6. What's the point of these questions?
-  * I only know that, that's what Damascus, that's what the point of Damascus.
-7. Did you remove the coverage images?
+3. Why do some glyphs look terrible?
+  * because I suck
+4. Can I expand upon this font?
+  * Yes, if your resultant font is also licensed under the OFL.
+5. What's the point of these questions?
+  * None!
+6. Did you remove the coverage images?
   * Yes, as they are redundant now.
-8. Will there be a bold version?
+7. Will there be a bold font?
   * There is a work-in-progress bold version, but due to its immense workload it may not be published.
 
 ## Disclaimer
@@ -57,7 +39,7 @@ Glyphs do not necessarily follow any source.
 
 I am not responsible for any damages caused by misusage of this font, or any misunderstandings that may arise when it is used in any scenario.
 
-If there are inaccuracies in certain glyphs, please create an issue.
+If there are inaccuracies in certain glyphs, please report them in the relevant issue.
 
 ## License
 
@@ -83,14 +65,14 @@ Note that the below is not a substitute for legal advice. Please refer to the OF
 
 ## Credits
 
-| Font | Brief Description | Author(s) |
-| --- | --- | --- |
-| [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) | Base font | Google, Adobe |
-| [Plangothic](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project) | Provided most glyphs | Fitzgerald Porthmouth Koenigsegg [et. al.](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project?tab=readme-ov-file#%E8%B4%A1%E7%8C%AE%E8%80%85) |
-| [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) | Provided modifications of Plangothic glyphs | MY1L |
-| [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen) | Provided some Vietnamese Han Nom glyphs | TKYKmori, Han-Nom Revival Committee of Vietnam |
-| [Sukima Gothic](https://oppekebekkanko.booth.pm/items/2117070) | Provided some Japanese kanji glyphs | (booth.pm) oppekebekkanko |
-| [Yuu Gothic](https://github.com/Steve-Yuu/Yuu-Gothic) | Provided some glyphs | Steve-Yuu |
-| [Chiron Hei HK](https://github.com/chiron-fonts/chiron-hei-hk) | Provided some glyphs | chiron-fonts |
-| [WenYuan Gothic](https://github.com/takushun-wu/WenYuanFonts) | Provided some glyphs | takushun-wu |
-| [Lorchin Sans](https://github.com/Losketch/LorchinSans) | Provided some components which were edited into the font; mostly deprecated | Losketch |
+* [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)
+* [Plangothic](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project)
+* [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)
+* [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen)
+* [Sukima Gothic](https://oppekebekkanko.booth.pm/items/2117070) (booth.pm)
+* [Yuu Gothic](https://github.com/Steve-Yuu/Yuu-Gothic)
+* [Chiron Hei HK](https://github.com/chiron-fonts/chiron-hei-hk)
+* [WenYuan Gothic](https://github.com/takushun-wu/WenYuanFonts)
+* [Yuan Gu Hei TGC](https://zhuanlan.zhihu.com/p/1897044158293717296) (Zhihu)
+* [Huiwen-HKHei](https://zhuanlan.zhihu.com/p/12669052378) (Zhihu)
+* [SHS-UFO-Edits](https://github.com/CoolMarvel43/SHS-UFO-Edits)
